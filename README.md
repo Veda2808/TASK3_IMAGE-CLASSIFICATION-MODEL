@@ -19,3 +19,10 @@ This project demonstrates the power of CNNs in solving real-world problems like 
 
 *OUTPUT:*
 
+<img width="1135" height="516" alt="Image" src="https://github.com/user-attachments/assets/9a29648e-dcd1-4775-b315-f529fb1f89df" />
+
+
+<img width="801" height="511" alt="Image" src="https://github.com/user-attachments/assets/d573e93a-6666-45d9-a372-0565588ccc16" />
+
+
+<img width="796" height="685" alt="Image" src="https://github.com/user-attachments/assets/01440639-6fa6-468f-aaf1-cf085fca6151" />
